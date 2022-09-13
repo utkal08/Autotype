@@ -1,4 +1,4 @@
 pynput==1.7.3
 python-xlib==0.30
 six==1.16.0
-pyobjc==7.3
+pyobjc==7.1; sys_platform=='darwin'
